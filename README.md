@@ -12,9 +12,11 @@ Installation:
 ---
 **Git:**
 - `git clone https://github.com/Ulferno/automaticjacks.git`
+- `npm install`
 - Open `jacks.bat` in the created directory
 
 **Regular:**
 - [Download](https://github.com/Ulferno/automaticjacks/archive/main.zip) this repository as a zip
 - Unzip the zip
+- `npm install`
 - Open `jacks.bat` in the unzipped folder
