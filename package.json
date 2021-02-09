@@ -1,0 +1,16 @@
+{
+  "name": "automaticjacks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ulferno",
+  "license": "ISC",
+  "dependencies": {
+    "node-key-sender": "^1.0.11",
+    "number-to-words": "^1.2.4",
+    "prompt": "^1.1.0"
+  }
+}
