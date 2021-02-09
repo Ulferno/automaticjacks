@@ -15,6 +15,6 @@ Installation:
 - Open `jacks.bat` in the created directory
 
 **Regular:**
-
+- [Download](https://github.com/Ulferno/automaticjacks/archive/main.zip) this repository as a zip
 - Unzip the zip
 - Open `jacks.bat` in the unzipped folder
